@@ -6,6 +6,5 @@
  * @return {Number} сумма чисел a и b
  */
 export function sum(a, b) {
-  // Решение
-  return a+b;
+  return a + b;
 }
